@@ -1,6 +1,5 @@
 <h2>Hi, I'm Tran Quang Dang!</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p>Full Stack Overflow Developer . </em>
 
 <h4> Main: </h4>
 
