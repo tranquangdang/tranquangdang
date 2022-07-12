@@ -1,11 +1,7 @@
 <h2>Hi, I'm Tran Quang Dang!</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-<h4> Main: </h4>
-
-  - NodeJS
-  - ReactJS
-
+<h4> Javascript Dev</h4>
 <p><a href="https://tranquangdang.github.io/online-cv/">➡️ My Online CV</a></p>
 
 -----
