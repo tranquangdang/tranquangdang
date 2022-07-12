@@ -6,7 +6,7 @@
   - NodeJS
   - ReactJS
 
-<p align="right"><a href="https://www.facebook.com/tranquangdangg/">➡️ Contact</a></p>
+<p><a href="https://github.com/tranquangdang/online-cv">➡️ My CV</a></p>
 
 -----
 <a href="https://github.com/tranquangdang/tranquangdang/actions">
