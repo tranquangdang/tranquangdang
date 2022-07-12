@@ -6,7 +6,7 @@
   - NodeJS
   - ReactJS
 
-<p><a href="https://github.com/tranquangdang/online-cv">➡️ My CV</a></p>
+<p><a href="https://tranquangdang.github.io/online-cv/">➡️ My CV</a></p>
 
 -----
 <a href="https://github.com/tranquangdang/tranquangdang/actions">
